@@ -17,4 +17,4 @@ pip install langchain streamlit PyPDF2 faiss-cpu transformers huggingface_hub
 ```
 python -m streamlit run index.py
 ```
-## For more Information please check the documentation : [https://drive.google.com/file/d/1PVaZ-Xd8h5m1gliCpuloLRSPGugFKgjy/view?usp=sharing]
+## For more Information please check the documentation : 
